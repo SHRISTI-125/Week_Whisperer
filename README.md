@@ -26,6 +26,8 @@ It is self made day calculator without using modules or libraries.
 
 ```bash
 git clone https://github.com/SHRISTI-125/Week_Whisperer.git
+```
+```bash
 cd Week_Whisperer
 ```
 ```bash
