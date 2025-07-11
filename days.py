@@ -43,19 +43,19 @@ def day(C,B,A):
   G=Calc%7 #remainder for days
   print("\n")
   if G==1:
-    print('\033[95m{}\033[95m'.format("Sunday\nIt's Sunday having Funday\nLet's Rock, With Some sweets & Folks\nJumping on the Bed,With No care And Some Roses\nEat some food & fly without Wings\n Let's be Crazy!! "))
+    print('\033[95m{}\033[95m'.format("Sunday\nIt's Sunday having Funday\n "))
   elif G==2:
-    print('\033[36m{}\033[36m'.format("Monday; High the JOSH"))
+    print('\033[36m{}\033[36m'.format("Monday"))
   elif G==3:
-    print('\033[91m{}\033[91m'.format("Tuesday; Powerful day"))
+    print('\033[91m{}\033[91m'.format("Tuesday"))
   elif G==4:
-    print('\033[33m{}\033[33m'.format("Wednesday:: Flowery day"))
+    print('\033[33m{}\033[33m'.format("Wednesday"))
   elif G==5:
-    print('\033[93m{}\033[93m'.format("Thrusday ;; Colourful day"))
+    print('\033[93m{}\033[93m'.format("Thrusday"))
   elif G==6:
-    print('\033[94m{}\033[95m'.format("Friday ;: Happy day"))
+    print('\033[94m{}\033[95m'.format("Friday"))
   elif G==7 or G==0:
-    print('\033[96m{}\033[96m'.format("Saturday :: The PARTY Day"))
+    print('\033[96m{}\033[96m'.format("Saturday"))
   #print("\n\n")
   print('\033[32m{}\033[32m'.format("So it's all about Day\nThis program ends here"))
   print("\n")
